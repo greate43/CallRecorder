@@ -1,0 +1,10 @@
+#Fri Aug 21 21:54:02 AEST 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\dex\\evalDebug\\mergeLibDexEvalDebug\\classes_0.dex
+base.1=D\:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\dex\\evalDebug\\mergeProjectDexEvalDebug\\classes.dex
+base.0=D\:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\dex\\evalDebug\\mergeExtDexEvalDebug\\classes.dex

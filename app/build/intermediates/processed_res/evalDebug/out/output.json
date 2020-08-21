@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "net.synapticweb.callrecorder.gpcompliant.eval",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 13,
+        "versionName": "1.1.3-gpcompliant-eval",
+        "outputFile": "app-eval-debug.apk",
+        "fullName": "evalDebug",
+        "baseName": "eval-debug",
+        "dirName": ""
+      },
+      "path": "resources-evalDebug.ap_",
+      "properties": {
+        "packageId": "net.synapticweb.callrecorder.gpcompliant.eval",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

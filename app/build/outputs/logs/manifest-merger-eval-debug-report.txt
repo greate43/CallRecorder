@@ -1,0 +1,410 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.4] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\73271705fd43a7e55307bd311d785a24\jetified-storage-chooser-2.0.4.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\615db11c5632d18418b83b88332bcf24\media-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9bde0b187bc662c6cce416d4abeaa53b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:2:1-16:12
+MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\85ebd18bfd901a7985fb6062e40e06e2\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f0100aff98b677e4e329b221066c3730\jetified-appcompat-resources-1.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\4c8a05cf46449f1c6dcd8fd33af663f4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f78b4bcb86c61b1a7952179514d5be94\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5498df60b3472595e7c7449a2e3f8cc6\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39c6bfaed5b338ea8459183345734905\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f375f1b32842173206a5e95e1fb37d39\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ee6f991c1ba41b0ab6dd50b703be6705\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e81ee48f6df4a3942a6682edd0a62b15\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\46d15b5d0ef03fc53449047bd21b8dd2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e82fae339b07cb25f83b304b89f8c9e7\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ff3fa64c6fe4a45e86cbfa412d1c05f4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d7724a06507401d467558ba2b6a090b5\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\965716cf8bc6a7175dedf45817eff53a\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ac3f4b27d91a522aebf280d87cd9bccf\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\7b7470aa7be5ce133579609463affab6\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\61d3f0e9bbd295aebee87205353be545\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c6e3116e27b0273de97a9521ec407aa4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b961fb42ac2a3bd19299c4d2ad75e8bf\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9ee17a807ef09126b6ec34cfb7297934\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e8e211f2b228728387f6845ac54b7184\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9b6ee4b67ef137f6e6be485eb96bec96\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39f2ffe2e94f7fc943f3ae86602b14ac\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:1:1-19:12
+	package
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:5:5-44
+uses-feature#android.hardware.telephony
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:7:5-8:34
+	android:required
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:7:19-60
+uses-feature#android.hardware.microphone
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:9:5-88
+	android:required
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:9:62-85
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:12:5-70
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:11:5-71
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:17:22-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:18:5-66
+MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:25:5-67
+MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:19:22-76
+application
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:13:5-14:19
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:13:5-14:19
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ac3f4b27d91a522aebf280d87cd9bccf\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ac3f4b27d91a522aebf280d87cd9bccf\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:26:5-46:19
+MERGED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:26:5-46:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:25:9-56
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:25:9-56
+	android:icon
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:23:9-45
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:22:9-36
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:22:9-36
+	android:theme
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:27:9-45
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:27:9-45
+	android:usesCleartextTraffic
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:29:9-44
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:28:9-30
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:28:9-30
+activity#net.synapticweb.callrecorder.contactslist.ContactsListActivityMain
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:launchMode
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:32:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:37:27-74
+activity#net.synapticweb.callrecorder.contactdetail.ContactDetailActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:41:9-43:20
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:42:13-80
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:41:19-70
+activity#net.synapticweb.callrecorder.settings.SettingsActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:45:9-47:20
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:46:13-80
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:45:19-60
+activity#net.synapticweb.callrecorder.contactdetail.EditContactActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:49:9-51:20
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:50:13-78
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:49:19-68
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:53:9-54:58
+	android:theme
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:53:19-82
+activity#net.synapticweb.callrecorder.setup.SetupActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:58:9-60:20
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:59:13-80
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:58:19-54
+activity#net.synapticweb.callrecorder.HelpActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:62:9-63:82
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:63:13-80
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:62:19-47
+activity#net.synapticweb.callrecorder.player.PlayerActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:65:9-67:61
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:66:13-78
+	android:configChanges
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:67:13-59
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:65:19-56
+activity#net.synapticweb.callrecorder.setup.ShowEulaActivity
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:69:9-70:65
+	android:parentActivityName
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:70:13-62
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:69:19-57
+receiver#net.synapticweb.callrecorder.recorder.CallReceiver
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:72:9-77:20
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:72:19-56
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:73:13-75:29
+action#android.intent.action.PHONE_STATE
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:74:17-75
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:74:25-73
+receiver#net.synapticweb.callrecorder.recorder.ControlRecordingReceiver
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:79:9-86:20
+	android:exported
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:79:19-68
+intent-filter#action:name:net.synapticweb.callrecorder.START_RECORDING+action:name:net.synapticweb.callrecorder.START_SPEAKER+action:name:net.synapticweb.callrecorder.STOP_SPEAKER
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:81:13-85:29
+action#net.synapticweb.callrecorder.START_RECORDING
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:82:17-87
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:82:25-84
+action#net.synapticweb.callrecorder.STOP_SPEAKER
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:83:17-84
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:83:25-81
+action#net.synapticweb.callrecorder.START_SPEAKER
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:84:17-85
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:84:25-82
+service#net.synapticweb.callrecorder.recorder.RecorderService
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:9-60
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:18-58
+uses-sdk
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.4] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\73271705fd43a7e55307bd311d785a24\jetified-storage-chooser-2.0.4.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.4] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\73271705fd43a7e55307bd311d785a24\jetified-storage-chooser-2.0.4.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\615db11c5632d18418b83b88332bcf24\media-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\615db11c5632d18418b83b88332bcf24\media-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9bde0b187bc662c6cce416d4abeaa53b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9bde0b187bc662c6cce416d4abeaa53b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:21:5-23:41
+MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\85ebd18bfd901a7985fb6062e40e06e2\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\85ebd18bfd901a7985fb6062e40e06e2\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f0100aff98b677e4e329b221066c3730\jetified-appcompat-resources-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f0100aff98b677e4e329b221066c3730\jetified-appcompat-resources-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\4c8a05cf46449f1c6dcd8fd33af663f4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\4c8a05cf46449f1c6dcd8fd33af663f4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f78b4bcb86c61b1a7952179514d5be94\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f78b4bcb86c61b1a7952179514d5be94\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5498df60b3472595e7c7449a2e3f8cc6\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5498df60b3472595e7c7449a2e3f8cc6\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39c6bfaed5b338ea8459183345734905\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39c6bfaed5b338ea8459183345734905\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f375f1b32842173206a5e95e1fb37d39\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\f375f1b32842173206a5e95e1fb37d39\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ee6f991c1ba41b0ab6dd50b703be6705\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ee6f991c1ba41b0ab6dd50b703be6705\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e81ee48f6df4a3942a6682edd0a62b15\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e81ee48f6df4a3942a6682edd0a62b15\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\46d15b5d0ef03fc53449047bd21b8dd2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\46d15b5d0ef03fc53449047bd21b8dd2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e82fae339b07cb25f83b304b89f8c9e7\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e82fae339b07cb25f83b304b89f8c9e7\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ff3fa64c6fe4a45e86cbfa412d1c05f4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ff3fa64c6fe4a45e86cbfa412d1c05f4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d7724a06507401d467558ba2b6a090b5\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d7724a06507401d467558ba2b6a090b5\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\965716cf8bc6a7175dedf45817eff53a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\965716cf8bc6a7175dedf45817eff53a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ac3f4b27d91a522aebf280d87cd9bccf\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\ac3f4b27d91a522aebf280d87cd9bccf\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:22:5-24:41
+MERGED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\7b7470aa7be5ce133579609463affab6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\7b7470aa7be5ce133579609463affab6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\61d3f0e9bbd295aebee87205353be545\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\61d3f0e9bbd295aebee87205353be545\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c6e3116e27b0273de97a9521ec407aa4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c6e3116e27b0273de97a9521ec407aa4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b961fb42ac2a3bd19299c4d2ad75e8bf\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b961fb42ac2a3bd19299c4d2ad75e8bf\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9ee17a807ef09126b6ec34cfb7297934\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9ee17a807ef09126b6ec34cfb7297934\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e8e211f2b228728387f6845ac54b7184\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\e8e211f2b228728387f6845ac54b7184\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9b6ee4b67ef137f6e6be485eb96bec96\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9b6ee4b67ef137f6e6be485eb96bec96\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39f2ffe2e94f7fc943f3ae86602b14ac\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\39f2ffe2e94f7fc943f3ae86602b14ac\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
+provider#androidx.core.content.FileProvider
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:7:1-15:20
+	android:grantUriPermissions
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:11:13-47
+	android:authorities
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:9:13-81
+	android:exported
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:10:13-37
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:8:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:12:13-14:48
+	android:resource
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:14:17-46
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml:13:17-67
+service#org.acra.sender.LegacySenderService
+ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:27:9-31:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:31:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:29:13-63
+	android:exported
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:28:13-63
+service#org.acra.sender.JobSenderService
+ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:32:9-37:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:37:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:33:13-60
+provider#org.acra.attachment.AcraContentProvider
+ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:39:9-45:51
+	android:process
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:44:13-36
+	android:grantUriPermissions
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:43:13-47
+	android:authorities
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:41:13-56
+	android:exported
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:42:13-37
+	tools:replace
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from [ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:40:13-67

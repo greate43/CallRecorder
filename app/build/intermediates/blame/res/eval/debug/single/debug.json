@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-hdpi_launcher_icon_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-hdpi\\launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_select_all.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\select_all.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_select_export.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\select_export.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac32_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac32_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_notification_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_bottom_nav.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_incoming.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\incoming.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxxhdpi_baseline_settings_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_notification_icon_success.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\notification_icon_success.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac64_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac64_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_recorder.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\recorder.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_header_back.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\header_back.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-mdpi_launcher_icon_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-mdpi\\launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_error.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\error.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_notification_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_checkbox_checked.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\checkbox_checked.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_help_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\help_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_notification_icon_error.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\notification_icon_error.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxxhdpi_baseline_info_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_info_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_ic_plus.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_ic_album_white_24dp.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\ic_album_white_24dp.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_player_stop.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\player_stop.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_player_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\player_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_notification_icon_error.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\notification_icon_error.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxxhdpi_baseline_more_vert_white_24.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_more_vert_white_24.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_setup_eula_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\setup_eula_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_contacts_list_activity_twopane.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\contacts_list_activity_twopane.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_setup_show_eula_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\setup_show_eula_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_user_contact.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\user_contact.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxxhdpi_notification_icon_error.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxxhdpi\\notification_icon_error.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_help_recording_calls.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\help_recording_calls.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_question_mark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\question_mark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac128_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac128_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_edit.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_help_managing_recordings.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\help_managing_recordings.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_info_dialog.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\info_dialog.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_exclamation.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\exclamation.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-hdpi_launcher_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_storage_chooser_options.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\storage_chooser_options.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_checkbox_unchecked.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\checkbox_unchecked.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_notification_icon_success.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\notification_icon_success.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_notification_icon_error.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\notification_icon_error.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_contact.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_notification_icon_error.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\notification_icon_error.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_notification_icon_success.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\notification_icon_success.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_drawer_view.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\drawer_view.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_grid.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\grid.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_edit_contact_change_photo.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\edit_contact_change_photo.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_baseline_info_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\baseline_info_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_help_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\help_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_edit_contact_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\edit_contact_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_outgoing_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\outgoing_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_call.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\call.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_help_about.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\help_about.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac32_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac32_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_close.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_eula.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\eula.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-anydpi-v24_notification_icon_success.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-anydpi-v24\\notification_icon_success.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_menu.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\menu.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac128_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac128_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\xml_files.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\xml\\files.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_player_play.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\player_play.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_baseline_more_vert_white_24.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_more_vert_white_24.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_baseline_settings_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\color_text_on_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\color\\text_on_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_wav_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_wav_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_player_pause.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\player_pause.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxhdpi_launcher_icon_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxhdpi\\launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_speaker_phone_off.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\speaker_phone_off.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-mdpi_launcher_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-mdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_list_contacts_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\list_contacts_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-anydpi-v26_launcher_icon.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-anydpi-v26\\launcher_icon.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_wav_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_wav_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_header.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_done.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\done.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_recording.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\recording.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_help_playing_recordings.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\help_playing_recordings.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_settings.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_help.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\help.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_recording_selected_popup.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\recording_selected_popup.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_symbol_aac64_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_symbol_aac64_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\color_text_on_light.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\color\\text_on_light.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_baseline_settings_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\menu_contact_popup.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\menu\\contact_popup.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_navdraw_header.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\navdraw_header.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_baseline_info_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\baseline_info_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_setup_permissions_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\setup_permissions_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_notification_icon_success.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\notification_icon_success.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_contact_detail_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\contact_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_info.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\info.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxxhdpi_notification_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxxhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_unassigned_recordings_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\unassigned_recordings_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_baseline_more_vert_white_24.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\baseline_more_vert_white_24.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_notification_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_baseline_settings_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_setup_activity.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\setup_activity.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-anydpi-v26_launcher_icon_round.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-anydpi-v26\\launcher_icon_round.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\color_nav_item_state_list.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\color\\nav_item_state_list.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_speaker_phone_on.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\speaker_phone_on.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_success.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\success.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_contacts_list_activity_onepane.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\contacts_list_activity_onepane.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_sound_bottom.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\sound_bottom.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxxhdpi_launcher_icon_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_user_bottom.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\user_bottom.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_info_storage_dialog.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\info_storage_dialog.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_baseline_info_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\baseline_info_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_back.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_setup_power_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\setup_power_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_notification_icon.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_privacy_policy.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\privacy_policy.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_settings_layout.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-hdpi_ic_play_grey600_24dp.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-hdpi\\ic_play_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-mdpi_baseline_more_vert_white_24.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-mdpi\\baseline_more_vert_white_24.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_email.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\layout_contact_detail_fragment.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\layout\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_outgoing_dark.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\outgoing_dark.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xxhdpi_baseline_info_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_info_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_incognito.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\incognito.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xhdpi_launcher_icon_round.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xhdpi\\launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_warning.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\warning.xml"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\raw_help_licences.html.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\raw\\help_licences.html"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable-xhdpi_baseline_settings_black_36.png.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_black_36.png"
+    },
+    {
+        "merged": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\res\\merged\\eval\\debug\\drawable_stars.xml.flat",
+        "source": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\src\\main\\res\\drawable\\stars.xml"
+    }
+]

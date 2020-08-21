@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\IN_DEVELOPMENT\\ANDROID_PROJECTS\\CallRecorder\\app\\build\\intermediates\\incremental\\mergeEvalDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SalmanKhan\\.gradle\\caches\\transforms-2\\files-2.1\\cbd17d1b200d799cec21f0a5093815d5\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}

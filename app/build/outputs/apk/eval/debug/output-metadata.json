@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "net.synapticweb.callrecorder.gpcompliant.eval",
+  "variantName": "evalDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 13,
+      "versionName": "1.1.3-gpcompliant-eval",
+      "enabled": true,
+      "outputFile": "app-eval-debug.apk"
+    }
+  ]
+}

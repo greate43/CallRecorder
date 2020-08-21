@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Croller</string>
+    <declare-styleable name="Croller">
+        <attr format="boolean" name="enabled"/>
+        <attr format="integer" name="start_progress"/>
+        <attr format="string" name="label"/>
+        <attr format="color" name="back_circle_color"/>
+        <attr format="color" name="back_circle_disable_color"/>
+        <attr format="color" name="main_circle_color"/>
+        <attr format="color" name="main_circle_disable_color"/>
+        <attr format="color" name="indicator_color"/>
+        <attr format="color" name="indicator_disable_color"/>
+        <attr format="color" name="progress_primary_color"/>
+        <attr format="color" name="progress_primary_disable_color"/>
+        <attr format="color" name="progress_secondary_color"/>
+        <attr format="color" name="progress_secondary_disable_color"/>
+        <attr format="dimension" name="label_size"/>
+        <attr format="color" name="label_color"/>
+        <attr format="string" name="label_font"/>
+        <attr format="enum" name="label_style">
+            <enum name="normal" value="0"/>
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr format="color" name="label_disabled_color"/>
+        <attr format="float" name="indicator_width"/>
+        <attr format="boolean" name="is_continuous"/>
+        <attr format="float" name="progress_primary_circle_size"/>
+        <attr format="float" name="progress_secondary_circle_size"/>
+        <attr format="float" name="progress_primary_stroke_width"/>
+        <attr format="float" name="progress_secondary_stroke_width"/>
+        <attr format="integer" name="sweep_angle"/>
+        <attr format="integer" name="start_offset"/>
+        <attr format="integer" name="max"/>
+        <attr format="integer" name="min"/>
+        <attr format="float" name="main_circle_radius"/>
+        <attr format="float" name="back_circle_radius"/>
+        <attr format="float" name="progress_radius"/>
+        <attr format="boolean" name="anticlockwise"/>
+    </declare-styleable>
+</resources>

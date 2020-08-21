@@ -1,0 +1,41 @@
+R_DEF: Internal format may change without notice
+local
+attr? anticlockwise
+attr? back_circle_color
+attr? back_circle_disable_color
+attr? back_circle_radius
+attr? enabled
+attr? indicator_color
+attr? indicator_disable_color
+attr? indicator_width
+attr? is_continuous
+attr? label
+attr? label_color
+attr? label_disabled_color
+attr? label_font
+attr? label_size
+attr? label_style
+attr? main_circle_color
+attr? main_circle_disable_color
+attr? main_circle_radius
+attr? max
+attr? min
+attr? progress_primary_circle_size
+attr? progress_primary_color
+attr? progress_primary_disable_color
+attr? progress_primary_stroke_width
+attr? progress_radius
+attr? progress_secondary_circle_size
+attr? progress_secondary_color
+attr? progress_secondary_disable_color
+attr? progress_secondary_stroke_width
+attr? start_offset
+attr? start_progress
+attr? sweep_angle
+id bold
+id bold_italic
+id italic
+id normal
+layout croller_view
+string app_name
+styleable Croller enabled start_progress label back_circle_color back_circle_disable_color main_circle_color main_circle_disable_color indicator_color indicator_disable_color progress_primary_color progress_primary_disable_color progress_secondary_color progress_secondary_disable_color label_size label_color label_font label_style label_disabled_color indicator_width is_continuous progress_primary_circle_size progress_secondary_circle_size progress_primary_stroke_width progress_secondary_stroke_width sweep_angle start_offset max min main_circle_radius back_circle_radius progress_radius anticlockwise

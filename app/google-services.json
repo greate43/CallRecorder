@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515599280982",
+    "firebase_url": "https://gpcomplainantapp.firebaseio.com",
+    "project_id": "gpcomplainantapp",
+    "storage_bucket": "gpcomplainantapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515599280982:android:fcc2615eb1f407a65684f7",
+        "android_client_info": {
+          "package_name": "net.synapticweb.callrecorder.gpcompliant.eval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515599280982-sc26dlgjejr6duhle5bo7co8q9t6mpt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7a5_o1e7Y_vh7XSSZSlfe2nyVWTr-fWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515599280982-sc26dlgjejr6duhle5bo7co8q9t6mpt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
