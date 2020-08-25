@@ -51,7 +51,7 @@
 27-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:19:22-76
 28
 29    <application
-29-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
+29-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-96:19
 30        android:name="net.synapticweb.callrecorder.CrApp"
 30-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:28:9-30
 31        android:allowBackup="false"
@@ -196,40 +196,62 @@
 105-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:9-60
 105-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:18-58
 106        <service
-106-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:27:9-31:39
-107            android:name="org.acra.sender.LegacySenderService"
-107-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:28:13-63
-108            android:enabled="@bool/acra_enable_legacy_service"
-108-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:29:13-63
-109            android:exported="false"
-109-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:30:13-37
-110            android:process=":acra" />
-110-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:31:13-36
-111        <service
-111-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:32:9-37:39
-112            android:name="org.acra.sender.JobSenderService"
-112-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:33:13-60
-113            android:enabled="@bool/acra_enable_job_service"
-113-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:34:13-60
-114            android:exported="false"
-114-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:35:13-37
-115            android:permission="android.permission.BIND_JOB_SERVICE"
-115-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:36:13-69
-116            android:process=":acra" />
-116-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:37:13-36
-117
-118        <provider
-118-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:39:9-45:51
-119            android:name="org.acra.attachment.AcraContentProvider"
-119-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:40:13-67
-120            android:authorities="net.synapticweb.callrecorder.gpcompliant.eval.acra"
-120-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:41:13-56
+106-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:9-95:19
+107            android:name="net.synapticweb.callrecorder.recorder.StartAccessibilityService"
+107-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:18-96
+108            android:enabled="true"
+108-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:164-186
+109            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+109-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:97-163
+110            <intent-filter>
+110-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:91:13-93:29
+111                <action android:name="android.accessibilityservice.AccessibilityService" />
+111-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:92:17-91
+111-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:92:25-89
+112            </intent-filter>
+113
+114            <meta-data
+114-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:13-121
+115                android:name="android.accessibilityservice"
+115-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:24-67
+116                android:resource="@xml/start_accessibility_service" />
+116-->D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:68-119
+117        </service>
+118        <service
+118-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:27:9-31:39
+119            android:name="org.acra.sender.LegacySenderService"
+119-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:28:13-63
+120            android:enabled="@bool/acra_enable_legacy_service"
+120-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:29:13-63
 121            android:exported="false"
-121-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:42:13-37
-122            android:grantUriPermissions="true"
-122-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:43:13-47
-123            android:process=":acra" />
-123-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:44:13-36
-124    </application>
-125
-126</manifest>
+121-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:30:13-37
+122            android:process=":acra" />
+122-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:31:13-36
+123        <service
+123-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:32:9-37:39
+124            android:name="org.acra.sender.JobSenderService"
+124-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:33:13-60
+125            android:enabled="@bool/acra_enable_job_service"
+125-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:34:13-60
+126            android:exported="false"
+126-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:35:13-37
+127            android:permission="android.permission.BIND_JOB_SERVICE"
+127-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:36:13-69
+128            android:process=":acra" />
+128-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:37:13-36
+129
+130        <provider
+130-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:39:9-45:51
+131            android:name="org.acra.attachment.AcraContentProvider"
+131-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:40:13-67
+132            android:authorities="net.synapticweb.callrecorder.gpcompliant.eval.acra"
+132-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:41:13-56
+133            android:exported="false"
+133-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:42:13-37
+134            android:grantUriPermissions="true"
+134-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:43:13-47
+135            android:process=":acra" />
+135-->[ch.acra:acra-core:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\c7db1d60ca144c3907150f63419f5292\jetified-acra-core-5.5.0\AndroidManifest.xml:44:13-36
+136    </application>
+137
+138</manifest>

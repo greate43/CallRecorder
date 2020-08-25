@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
-MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
 MERGED from [com.github.codekidX:storage-chooser:2.0.4.4] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\73271705fd43a7e55307bd311d785a24\jetified-storage-chooser-2.0.4.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:17:1-24:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:2:1-11:12
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\08ef644075b50ebd284a98537cbb7366\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
 MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.media:media:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\615db11c5632d18418b83b88332bcf24\media-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9bde0b187bc662c6cce416d4abeaa53b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\500c40eb6d7103bace332f1d0d1a8430\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:2:1-16:12
 MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\85ebd18bfd901a7985fb6062e40e06e2\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -54,13 +54,13 @@ INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\Andro
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
-		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
-		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-91:12
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:1-98:12
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:2:11-69
@@ -119,17 +119,17 @@ ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidM
 	android:name
 		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:19:22-76
 application
-ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
-MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
-MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-89:19
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-96:19
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-96:19
+MERGED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:21:5-96:19
 MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
 MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
 MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\500c40eb6d7103bace332f1d0d1a8430\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\500c40eb6d7103bace332f1d0d1a8430\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
 MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:13:5-14:19
 MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:13:5-14:19
 MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\3fff727949bf2a246a72a3ba54a830f6\core-1.3.0-alpha01\AndroidManifest.xml:24:5-89
@@ -264,6 +264,26 @@ service#net.synapticweb.callrecorder.recorder.RecorderService
 ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:9-60
 	android:name
 		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:88:18-58
+service#net.synapticweb.callrecorder.recorder.StartAccessibilityService
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:9-95:19
+	android:enabled
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:164-186
+	android:permission
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:97-163
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:90:18-96
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:91:13-93:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:92:17-91
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:92:25-89
+meta-data#android.accessibilityservice
+ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:13-121
+	android:resource
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:68-119
+	android:name
+		ADDED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml:94:24-67
 uses-sdk
 INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
@@ -274,14 +294,14 @@ MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\Salman
 MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2f7d4e647ad882777454d1b380b4908f\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d326b5e7a9cec13085208bfc4816652b\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
 MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.preference:preference:1.1.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\2ad5048aa1534c237211ed1c206fc2bd\preference-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:Croller] D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\libs\Croller\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\5f07c17505646c0c6d30c3a819a993b4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\08ef644075b50ebd284a98537cbb7366\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\08ef644075b50ebd284a98537cbb7366\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
 MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0-alpha02] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\eba384a2ec8374b0d359f87a8de21f72\appcompat-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.media:media:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\615db11c5632d18418b83b88332bcf24\media-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
@@ -290,8 +310,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\c
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\9bde0b187bc662c6cce416d4abeaa53b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\496b9786dbb69101cd1978708ea93396\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\b4c40a07a4e4eb9e735354061f142811\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\500c40eb6d7103bace332f1d0d1a8430\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\500c40eb6d7103bace332f1d0d1a8430\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.chibde:audiovisualizer:2.2.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\49647530ae19a50a61745e8152230945\jetified-audiovisualizer-2.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [ch.acra:acra-http:5.5.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\d36fc3acc44aab32603603eb5cef1491\jetified-acra-http-5.5.0\AndroidManifest.xml:21:5-23:41
@@ -349,7 +369,7 @@ MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SalmanK
 INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
 INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\cbd17d1b200d799cec21f0a5093815d5\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\SalmanKhan\.gradle\caches\transforms-2\files-2.1\035b54a48eb5b3a0afa69814dec9e02c\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\main\AndroidManifest.xml
 		INJECTED from D:\IN_DEVELOPMENT\ANDROID_PROJECTS\CallRecorder\app\src\eval\AndroidManifest.xml

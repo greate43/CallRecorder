@@ -3,8 +3,11 @@ package net.synapticweb.callrecorder.recorder;
 import android.accessibilityservice.AccessibilityService;
 import android.app.Service;
 import android.content.Intent;
+import android.os.Build;
 import android.util.Log;
 import android.view.accessibility.AccessibilityEvent;
+
+import androidx.annotation.RequiresApi;
 
 import net.synapticweb.callrecorder.CrApp;
 
@@ -14,6 +17,7 @@ public class StartAccessibilityService extends AccessibilityService {
     public void onInterrupt() {
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void onAccessibilityEvent(AccessibilityEvent accessibilityEvent) {
         Log.d(TAG, "onAccesibilityEvent called");
         if (accessibilityEvent.getEventType() == 64 && CrApp.getIncomingCall() != null && !CrApp.isServiceStarted()) {

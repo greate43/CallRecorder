@@ -151,4 +151,5 @@
     <string name="notification_success">The phone call was successfully recorded.</string>
     <string name="error_deleting_recordings">An error occurred while attempting to delete the selected recordings.</string>
     <string name="error_deleting_contact">An error occurred while attempting to delete the selected contact.</string>
+    <string name="acces_serv_description">This accesibility service is necessary in Android 10 because of the restrictions introduced by Google on call recording.</string>
 </resources>

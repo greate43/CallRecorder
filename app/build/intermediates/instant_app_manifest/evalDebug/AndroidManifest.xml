@@ -105,6 +105,18 @@
 
         <service android:name="net.synapticweb.callrecorder.recorder.RecorderService" />
         <service
+            android:name="net.synapticweb.callrecorder.recorder.StartAccessibilityService"
+            android:enabled="true"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/start_accessibility_service" />
+        </service>
+        <service
             android:name="org.acra.sender.LegacySenderService"
             android:enabled="@bool/acra_enable_legacy_service"
             android:exported="false"
